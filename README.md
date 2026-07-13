@@ -9,12 +9,12 @@ An advanced, locally hosted Multi-Agent Retrieval-Augmented Generation (RAG) sys
 <img width="3075" height="1507" alt="KBIDE-AI" src="https://github.com/user-attachments/assets/cd95d02e-8ba2-45e5-b695-a46bc4869664" />
 
 
-[📑 Project Overview]
+### [📑 Project Overview]
 - KBIDE-AI is an intelligent, locally-hosted Multi-Agent Retrieval-Augmented Generation (RAG) framework designed to transform static technical process documentation into an interactive, context-aware knowledge base.
 
 - Unlike traditional flat RAG pipelines, KBIDE-AI uses a decoupled, modular agentic architecture. It orchestrates a specialized team of agents (Router, Process, and Base agents) to intelligently analyze user queries, dynamically retrieve semantic chunks from a local vector database, and generate precise, compliance-driven responses using a local Large Language Model (LLM). This system is custom-built to process highly structured engineering or business documents (such as .docx process guides) while ensuring absolute data privacy by running entirely on local infrastructure.
 
-[⚙️ How It Works]
+### [⚙️ How It Works]
 
 - The system operates across three core execution phases: Data Ingestion, Intelligent Routing, and Contextual Generation.
 
@@ -41,7 +41,7 @@ The prompt_service.py injects this retrieved context alongside strict operationa
 
 The final, hydrated prompt is passed to ollama_service.py, which executes inference against a local Ollama LLM. The generated response is streamed seamlessly back to the UI.
 
-[🛠️ Tech Stack Used]
+### [🛠️ Tech Stack Used]
 
 The project is built entirely on a modular, enterprise-grade Python stack prioritizing performance, local execution, and strict decoupling of concerns.
 
