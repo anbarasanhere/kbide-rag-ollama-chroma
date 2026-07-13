@@ -1,4 +1,4 @@
-# KBIDE-AI: Localized Multi Agentic RAG Pipeline with ChromaDB & Ollama Orchestration
+# Localized Multi Agentic RAG Pipeline with ChromaDB & Ollama Orchestration
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Frontend-Streamlit-red.svg)](https://streamlit.io/)
