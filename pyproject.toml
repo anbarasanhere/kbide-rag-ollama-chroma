@@ -1,0 +1,30 @@
+[project]
+
+name = "kbide-ai"
+
+version = "1.0.0"
+
+description = "KBIDE AI Support Assistant"
+
+requires-python = ">=3.11"
+
+[tool.black]
+
+line-length = 88
+
+[tool.isort]
+
+profile = "black"
+
+[tool.pyright]
+
+include = [
+    "."
+]
+
+exclude = [
+    "__pycache__",
+    "vector_db"
+]
+
+pythonVersion = "3.11"

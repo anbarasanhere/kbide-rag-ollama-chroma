@@ -7,5 +7,3 @@ class DocumentLoader:
     def load(self):
         loader = Docx2txtLoader(self.path)
         return loader.load()
-    
-
