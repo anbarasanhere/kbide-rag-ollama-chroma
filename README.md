@@ -2,9 +2,9 @@
 ## Overview
 
 
-# Designed and implemented an end-to-end Retrieval-Augmented Generation (RAG) pipeline using LangChain, Ollama, and ChromaDB for intelligent enterprise document search.
-# Developed an automated document ingestion pipeline supporting semantic chunking, embedding generation, metadata extraction, and persistent vector storage for efficient retrieval.
-# Integrated locally hosted LLMs through Ollama, eliminating dependency on cloud APIs and ensuring complete privacy of confidential organizational documents.
+- Designed and implemented an end-to-end Retrieval-Augmented Generation (RAG) pipeline using LangChain, Ollama, and ChromaDB for intelligent enterprise document search.
+- Developed an automated document ingestion pipeline supporting semantic chunking, embedding generation, metadata extraction, and persistent vector storage for efficient retrieval.
+- Integrated locally hosted LLMs through Ollama, eliminating dependency on cloud APIs and ensuring complete privacy of confidential organizational documents.
 Implemented semantic similarity search using vector embeddings to retrieve contextually relevant knowledge before response generation, significantly improving answer accuracy over standalone LLM responses.
 Engineered modular components for document preprocessing, embedding generation, vector indexing, retrieval, prompt construction, and response generation following scalable software engineering principles.
 Built configurable prompt engineering workflows to reduce hallucinations and improve factual grounding by injecting retrieved contextual information into LLM prompts.
