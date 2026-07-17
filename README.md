@@ -9,26 +9,6 @@
 - Designed persistent vector database architecture using ChromaDB, enabling incremental knowledge base updates without rebuilding embeddings.
 - Optimized retrieval latency through efficient chunking strategies and Top-K semantic retrieval, enabling near real-time document question answering.
 
-- Knowledge Agent
-- Troubleshooting Agent
-- Rule Explanation Agent
-
-### Technology Stack
-
-- Python
-- Streamlit
-- ollama
-- Langchain
-- ChromaDB
-
-### Questions can be asked
-
-1. What is Phantom AV?
-2. Who is KE and what they do ?
-3. Explain the types of BIOS ?
-4. How many tabs SCM file contains ?
-5. Explain all the stages of KBIDE
-
 ### Technology Used
 
 | Category         | Technologies                         |
@@ -43,3 +23,14 @@
 | Prompting        | Context Injection                    |
 | Storage          | Persistent Vector Store              |
 | Deployment       | Local Offline Environment            |
+
+
+### Questions can be asked
+
+1. What is Phantom AV?
+2. Who is KE and what they do ?
+3. Explain the types of BIOS ?
+4. How many tabs SCM file contains ?
+5. Explain all the stages of KBIDE
+
+
