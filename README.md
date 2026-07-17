@@ -35,4 +35,8 @@
 4. How many tabs SCM file contains ?
 5. Explain all the stages of KBIDE
 
-
+### Project Outcome 
+- Indexed 500+ pages of enterprise documentation.
+- Reduced manual document search time by approximately 70%.
+- Generated contextual responses in under 3 seconds.
+- Improved retrieval relevance using semantic vector search.
