@@ -1,4 +1,4 @@
-# KBIDE AI ASSISTANT
+# Enterprise Knowledge Base RAG Assistant
 ## Overview
 
 An AI-Powered internal assistant for KBIDE Support.
