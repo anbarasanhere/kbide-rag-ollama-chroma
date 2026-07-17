@@ -1,6 +1,8 @@
 # Enterprise Knowledge Base RAG Assistant
-## Overview
 
+<img width="3075" height="1507" alt="KBIDE-AI" src="https://github.com/user-attachments/assets/dc6e30a5-8634-4b8e-b5e9-6725794c654d" />
+
+## Overview
 
 - Designed and implemented an end-to-end Retrieval-Augmented Generation (RAG) pipeline using LangChain, Ollama, and ChromaDB for intelligent enterprise document search.
 - Developed an automated document ingestion pipeline supporting semantic chunking, embedding generation, metadata extraction, and persistent vector storage for efficient retrieval.
