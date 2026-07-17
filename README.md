@@ -25,3 +25,17 @@ An AI-Powered internal assistant for KBIDE Support.
 4. How many tabs SCM file contains ?
 5. Explain all the stages of KBIDE
 
+### Technology Used
+
+| Category         | Technologies                         |
+| ---------------- | ------------------------------------ |
+| Programming      | Python                               |
+| LLM Framework    | LangChain                            |
+| Local LLM        | Ollama                               |
+| Vector Database  | ChromaDB                             |
+| Embedding Models | Ollama Embeddings / Local Embeddings |
+| AI Technique     | Retrieval-Augmented Generation (RAG) |
+| Retrieval        | Semantic Vector Search               |
+| Prompting        | Context Injection                    |
+| Storage          | Persistent Vector Store              |
+| Deployment       | Local Offline Environment            |
